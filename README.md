@@ -1,6 +1,8 @@
 # Pokémon Red and Blue [![Build Status][ci-badge]][ci]
 
-This is a disassembly of Pokémon Red and Blue.
+This is a fork of the disassembly of Pokémon Red and Blue by the folks at PRET. I've decided to fork this repository for a fun project, focused on Slowpoke, Slow Version!
+
+//////ORIGINAL README
 
 It builds the following ROMs:
 

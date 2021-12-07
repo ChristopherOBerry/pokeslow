@@ -28,24 +28,25 @@ _OaksLabText39::
 _OaksLabCharmanderText::
 	text "So! You want the"
 	line "fire #MON,"
-	cont "CHARMANDER?"
+	cont "VULPIX?"
 	done
 
 _OaksLabSquirtleText::
 	text "So! You want the"
 	line "water #MON,"
-	cont "SQUIRTLE?"
+	cont "SLOWPOKE?"
 	done
 
 _OaksLabBulbasaurText::
 	text "So! You want the"
 	line "plant #MON,"
-	cont "BULBASAUR?"
+	cont "ODDISH?"
 	done
 
 _OaksLabMonEnergeticText::
 	text "This #MON is"
-	line "really energetic!"
+	line "really full of"
+	cont "piss and vinegar!"
 	prompt
 
 _OaksLabReceivedMonText::
@@ -58,6 +59,8 @@ _OaksLabReceivedMonText::
 _OaksLabLastMonText::
 	text "That's PROF.OAK's"
 	line "last #MON!"
+	cont "Don't be a"
+	cont "greedy-ass thief!"
 	done
 
 _OaksLabText_1d2f0::
@@ -212,7 +215,7 @@ _OaksLabChooseMonText::
 	line "I was a serious"
 	cont "#MON trainer!"
 
-	para "In my old age, I"
+	para "In my old ass, I"
 	line "have only 3 left,"
 	cont "but you can have"
 	cont "one! Choose!"
@@ -259,9 +262,9 @@ _OaksLabRivalChallengeText::
 
 _OaksLabText_1d3be::
 	text "WHAT?"
-	line "Unbelievable!"
-	cont "I picked the"
-	cont "wrong #MON!"
+	line "Because I"
+	cont "fucked up"
+	cont "OKAY?!"
 	prompt
 
 _OaksLabText_1d3c3::
@@ -271,9 +274,9 @@ _OaksLabText_1d3c3::
 
 _OaksLabRivalToughenUpText::
 	text "<RIVAL>: Okay!"
-	line "I'll make my"
-	cont "#MON fight to"
-	cont "toughen it up!"
+	line "I'm just a"
+	cont "big fucking"
+	cont "idiot!"
 
 	para "<PLAYER>! Gramps!"
 	line "Smell you later!"
