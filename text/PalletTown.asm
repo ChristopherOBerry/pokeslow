@@ -14,7 +14,7 @@ _OakWalksUpText::
 	cont "I know!"
 
 	para "Here, come with"
-	line "me!"
+	line "me! *BRAAAAAAP*"
 	done
 
 _PalletTownText2::
