@@ -9,7 +9,7 @@ IF DEF(_RED)
 	db 10, EKANS
 	db 12, RATTATA
 	db 12, SPEAROW
-	db  8, EKANS
+	db  8, SANDSHREW
 	db 12, EKANS
 ENDC
 IF DEF(_BLUE)

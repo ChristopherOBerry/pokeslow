@@ -7,7 +7,7 @@ IF DEF(_RED)
 	db  5, WEEDLE
 	db  4, KAKUNA
 	db  6, KAKUNA
-	db  4, METAPOD
+	db  5, METAPOD
 	db  3, CATERPIE
 ENDC
 IF DEF(_BLUE)
@@ -15,12 +15,12 @@ IF DEF(_BLUE)
 	db  5, METAPOD
 	db  3, CATERPIE
 	db  5, CATERPIE
-	db  4, METAPOD
+	db  6, METAPOD
 	db  6, METAPOD
 	db  4, KAKUNA
 	db  3, WEEDLE
 ENDC
-	db  3, PIKACHU
+	db  5, SLOWPOKE
 	db  5, PIKACHU
 	end_grass_wildmons
 

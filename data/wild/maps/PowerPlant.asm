@@ -9,7 +9,7 @@ PowerPlantWildMons:
 	db 32, MAGNETON
 	db 35, MAGNETON
 IF DEF(_RED)
-	db 33, ELECTABUZZ
+	db 33, RAICHU
 	db 36, ELECTABUZZ
 ENDC
 IF DEF(_BLUE)

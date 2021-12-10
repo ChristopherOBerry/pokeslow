@@ -8,7 +8,7 @@ IF DEF(_RED)
 	db 30, KOFFING
 	db 32, PONYTA
 	db 30, GRIMER
-	db 28, PONYTA
+	db 28, VULPIX
 	db 39, WEEZING
 	db 37, MUK
 ENDC
