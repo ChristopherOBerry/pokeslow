@@ -604,6 +604,7 @@ SlowpokeEvosMoves:
 	db EV_LEVEL, 37, SLOWBRO
 	db 0
 ; Learnset
+	db 6,  TACKLE
 	db 18, DISABLE
 	db 22, HEADBUTT
 	db 27, GROWL
